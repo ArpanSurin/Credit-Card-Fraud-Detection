@@ -18,4 +18,4 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 **Best Model Accuracy : 95.43** 
 
-![Model Screenshot](https://drive.google.com/file/d/1B5WqI_8IVJb-ZYydW-XCSIYboFR1T9Jb/view?usp=drive_link)
+![Model Screenshot](https://drive.google.com/uc?id=1B5WqI_8IVJb-ZYydW-XCSIYboFR1T9Jb)
