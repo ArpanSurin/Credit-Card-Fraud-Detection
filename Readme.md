@@ -2,7 +2,7 @@
 Use a dataset containing transaction data to
 detect fraudulent transactions.
 
-This project is a part of my machine learning virtual internship at TechnoHacks Edutech
+This project is a part of my machine learning virtual internship at **TechnoHacks Edutech**
 
 
 ## Dataset Information
